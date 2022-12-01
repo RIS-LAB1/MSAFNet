@@ -1,4 +1,4 @@
-#MSAFNet
+# MSAFNet
 
 The project is an implementation of our paper **Facial Expression Recognition with Multi-Scale Attention and Convolution-Transformer Fusion Network**.
 
